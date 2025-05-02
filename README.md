@@ -1,16 +1,18 @@
-## Hi there 👋
+# Haii (* ^ ω ^)
 
-<!--
-**BrooklynBae/BrooklynBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Ksyusha, a Software Engineering student at ITMO University.
+
+---
+
+## 📫 Contacts
+
+- ✉️ **Email:** [kseniya.karagodina2005@gmail.com](mailto:kseniya.karagodina2005@gmail.com)
+- 💬 **Telegram:** [@BroooklynBae](https://t.me/BroooklynBae)
+
+---
+
+Thanks for dropping by! ❤ (ɔˆз(ˆ⌣ˆc)
